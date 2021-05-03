@@ -1,0 +1,35 @@
+/* css resete */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* css variables */
+
+                               /* Navigation bar  */
+.navbar{
+    display: flex;
+    align-items: center;
+}
+/* logo & img  */
+.logo{
+    margin: 5px 5px;
+}
+
+.logo img{
+    height: 70px;
+    margin: 5px 5px;
+}
+/* list items */
+.navbar ul{
+    display: flex;
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar ul a{
+    padding: 5px 20px;
+    text-decoration: none;
+}
